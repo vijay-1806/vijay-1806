@@ -84,7 +84,7 @@ Currently building a blockchain-based system focused on decentralized data integ
 
 - 📧 **Email:** vijayaragavan183@gmail.com
 - 💼 **LinkedIn:** [Vijayaragavan G](https://www.linkedin.com/in/vijayaragavan-g-75591b338)
-- 🌐 **Portfolio:** vijay-1806.github.io
+- 🌐 **Portfolio:** [vijay-1806.github.io](https://vijay-1806.github.io)
 
 ---
 
