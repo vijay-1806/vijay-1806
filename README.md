@@ -13,7 +13,7 @@
 
 ## 🚀 I Build, Secure, and Scale
 
-I am a **Cybersecurity student & Full Stack Developer** with a passion for building real-world systems from scratch. My philosophy is simple: **Practical projects over theoretical knowledge.** I build systems that solve real problems and secure them against real threats.
+I am a **Cybersecurity student & Cloud Enthusiast** with a passion for building real-world systems from scratch. I build systems that solve real problems and secure them against real threats.
 
 - 🎓 **Education:** B.E. Computer Science (Cyber Security) @ Sri Shakthi Institute of Engineering and Technology, Coimbatore (2024–2028)
 - 🔭 **Currently working on:** Blockchain Project
