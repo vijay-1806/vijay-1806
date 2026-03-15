@@ -89,7 +89,7 @@ Currently building a blockchain-based system focused on decentralized data integ
 ---
 
 <div align="center">
-
+  
 *"Build it. Secure it. Scale it."*
 
 </div>
