@@ -2,16 +2,13 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Student+%F0%9F%94%90;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Exploring+AWS+%F0%9F%9A%80;Learning+CI%2FCD+%26+Automation+%E2%9A%99%EF%B8%8F;Building+Projects+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Student+%F0%9F%94%90;Cloud+%26+DevOps+Learner+%E2%98%81%EF%B8%8F;Learning+AWS+%26+CI%2FCD+%F0%9F%9A%80;Building+Projects+%F0%9F%92%BB" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Cyber_Security-Student-0d1117?style=for-the-badge&logo=shield&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-Student-0d1117?style=for-the-badge&logo=shield&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/AWS-Learning-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/DevOps-Learning-0d1117?style=for-the-badge&logo=devdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Learning-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 
 </div>
 
@@ -19,42 +16,29 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Vijayaragavan G**, a **B.E. Computer Science (Cyber Security) student** currently building my skills in **Cloud Computing and DevOps**.
+I'm **Vijayaragavan G**, a **3rd-year B.E. Computer Science (Cyber Security) student** at **Sri Shakthi Institute of Engineering and Technology**.
 
-I enjoy learning by building projects and experimenting with technologies.
+Currently, I'm focusing on **Cloud Computing and DevOps**, while continuing to build my Cyber Security fundamentals through practical projects.
 
-- 🎓 **B.E. Computer Science (Cyber Security)**
-- 🏫 **Sri Shakthi Institute of Engineering and Technology**
-- 📚 **3rd Year Student**
-- 🔐 **Cyber Security** is my academic field
-- ☁️ Currently focusing on **Cloud Computing**
-- ⚙️ Currently learning **DevOps fundamentals**
-- 🚀 Learning **AWS**
-- 🔧 Learning **Git, GitHub, Jenkins & GitHub Actions**
+- ☁️ Learning **AWS & Cloud fundamentals**
+- ⚙️ Learning **Git, GitHub, Jenkins & GitHub Actions**
 - 🔄 Exploring **CI/CD pipelines**
-- 🤖 Using AI as a learning and development assistant
-
-> **Currently:** Cloud Fundamentals → DevOps Fundamentals → CI/CD → Automation
+- 🔐 Interested in Cyber Security
+- 🚀 Learning by building real projects
 
 ---
 
-# 🛠️ Technologies I'm Learning
+## 🛠️ Tech Stack
 
 <div align="center">
-
-### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
 
 <br><br>
 
-### ☁️ Cloud & DevOps
-
 <img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,githubactions,linux" />
 
 <br><br>
-
-### 🌐 Development & Databases
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,flask" />
 
@@ -62,38 +46,139 @@ I enjoy learning by building projects and experimenting with technologies.
 
 ---
 
-# 📚 Current Learning
+## ☁️ Currently Learning
 
-| Technology | Status |
-|:---|:---:|
-| ☁️ AWS | 🟢 Learning Fundamentals |
-| 🔧 Git | 🟢 Learning |
-| 🐙 GitHub | 🟢 Learning |
-| ⚙️ Jenkins | 🟡 Learning |
-| 🚀 GitHub Actions | 🟡 Learning |
-| 🔄 CI/CD | 🟡 Learning |
-| 🐧 Linux | 🟡 Improving |
-| 🔐 Cyber Security | 🟡 Building Fundamentals |
+<div align="center">
 
-### My Current Path
+| ☁️ Cloud | ⚙️ DevOps | 🔐 Security |
+|:---:|:---:|:---:|
+| AWS | Git | Cyber Security |
+| EC2 | GitHub | Linux |
+| S3 | Jenkins | Networking |
+| IAM | GitHub Actions | Security Fundamentals |
+| | CI/CD | |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### ☁️ HostVault
+**Self-hosted Private Cloud Storage**
+
+A private cloud storage platform built with Flask, PostgreSQL, MinIO and Nginx.
+
+**Status:** ✅ Completed
+
+**Tech:** `Python` `Flask` `PostgreSQL` `MinIO` `Nginx`
+
+🔗 [View Repository](https://github.com/vijay-1806/hostvault)
+
+---
+
+### ⛓️ Blockchain Log Verifier
+**Blockchain-based Log Integrity**
+
+A project exploring blockchain for verifying log integrity and detecting unexpected changes.
+
+**Status:** ✅ Completed
+
+**Tech:** `Blockchain` `Ethereum` `Smart Contracts`
+
+🔗 [View Repository](https://github.com/SurendiranBJ/Block_chain-log-Verifier)
+
+---
+
+### 🧬 Biometrics Authentication
+**Behavioral Biometrics & LMS**
+
+Currently working on an LMS project exploring behavioral biometrics and user activity patterns.
+
+**Status:** 🚧 In Progress
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT`
+
+🔗 [View Repository](https://github.com/vijay-1806/Biometrics-Authentication)
+
+---
+
+## 🎯 My Current Journey
+
+<div align="center">
 
 ```text
-              ☁️ Cloud Fundamentals
-                       │
-                       ▼
-                     AWS
-                       │
-                       ▼
-                 Git & GitHub
-                       │
-                       ▼
-                    Jenkins
-                       │
-                       ▼
-                GitHub Actions
-                       │
-                       ▼
-                     CI/CD
-                       │
-                       ▼
-              ☁️ Cloud + DevOps
+🔐 Cyber Security
+       ↓
+☁️ Cloud Fundamentals
+       ↓
+🚀 AWS
+       ↓
+🔧 Git & GitHub
+       ↓
+⚙️ Jenkins + GitHub Actions
+       ↓
+🔄 CI/CD
+       ↓
+☁️ Cloud + DevOps
+```
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vijay-1806&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-1806&layout=compact&theme=github_dark&hide_border=true" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vijay-1806&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vijay-1806/vijay-1806/output/github-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:vijayaragavan183@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vijayaragavan-g-75591b338">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/vijay-1806">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://vijay-1806.github.io">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Learn • Build • Improve
+
+</div>
