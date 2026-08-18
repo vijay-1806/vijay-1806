@@ -131,13 +131,11 @@ Currently working on an LMS project exploring behavioral biometrics and user act
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijay-1806&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+<img src="./profile/stats.svg" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-1806&layout=compact&theme=github_dark&hide_border=true" width="42%"/>
+<img src="./profile/top-langs.svg" width="42%"/>
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=vijay-1806&theme=github-dark-blue&hide_border=true" width="70%"/>
 
 </div>
 
