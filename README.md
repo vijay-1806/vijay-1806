@@ -1,186 +1,299 @@
-# Hi there, I'm Vijayaragavan G 👋
+# 👋 Hi, I'm Vijayaragavan G
 
 <div align="center">
 
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-0d1117?style=for-the-badge\&logo=shield\&logoColor=blue)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=yellow)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge\&logo=amazon-aws\&logoColor=orange)
-![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=for-the-badge\&logo=devdotto\&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-0d1117?style=for-the-badge\&logo=ethereum\&logoColor=purple)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Student+%F0%9F%94%90;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Building+Projects+with+AI+%26+Code+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
+</a>
+
+<br>
+
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-0d1117?style=for-the-badge\&logo=shield\&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=FFD43B)
+![AWS](https://img.shields.io/badge/AWS-Learning-0d1117?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-0d1117?style=for-the-badge\&logo=devops\&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 I Build, Secure, and Automate
+## 🚀 About Me
 
-I am a **Cyber Security undergraduate and Cloud/DevOps enthusiast** focused on building secure, scalable, and practical systems.
+I'm **Vijayaragavan G**, a **B.E. Computer Science (Cyber Security) student** currently exploring **Cloud Computing and DevOps**.
 
-I enjoy working across **Cyber Security, Cloud Computing, DevOps, Blockchain, Linux, and Backend Development**, with a focus on turning concepts into real-world projects.
+My current focus is on understanding how applications are developed, managed, deployed and automated using modern tools.
 
-* 🎓 **Education:** B.E. Computer Science (Cyber Security) @ Sri Shakthi Institute of Engineering and Technology, Coimbatore
-* 📚 **Current Year:** 3rd Year
-* 🔐 **Primary Focus:** Cyber Security
-* ☁️ **Currently Learning:** Cloud Computing, AWS & DevOps
-* ⛓️ **Currently Working On:** Blockchain-based security project
-* 🛠️ **Previously Built:** HostVault — Self-hosted Private Cloud Storage Platform
-* ⚡ **Learning Philosophy:** Build it → Break it → Secure it → Automate it
+* 🎓 B.E. Computer Science (Cyber Security)
+* 🏫 Sri Shakthi Institute of Engineering and Technology
+* 📚 3rd Year Student
+* ☁️ Currently learning **AWS & Cloud fundamentals**
+* ⚙️ Currently learning **DevOps & CI/CD**
+* 🔧 Learning **Git, GitHub, Jenkins & GitHub Actions**
+* 🔐 Interested in **Cyber Security**
+* 🧪 Learning by building practical projects
+* 🤖 Using AI as a learning and development assistant
 
----
-
-## 🛠️ My Tech Stack
-
-| Category           | Skills                                                                               |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| **Languages**      | Python, C, Java, JavaScript, HTML5, CSS3                                             |
-| **Cyber Security** | Network Security, Linux Security, Security Monitoring, Authentication, Rate Limiting |
-| **Cloud**          | AWS, EC2, S3, IAM, CloudTrail                                                        |
-| **DevOps**         | Git, GitHub, Jenkins, CI/CD, Nginx, Linux                                            |
-| **Backend**        | Flask, REST APIs, Waitress                                                           |
-| **Databases**      | MySQL, MongoDB, PostgreSQL                                                           |
-| **Storage**        | MinIO, Distributed Object Storage                                                    |
-| **Blockchain**     | Ethereum, Smart Contracts, Ganache, Hardhat                                          |
-| **Tools**          | Kali Linux, Wireshark, VS Code, Postman, pgAdmin, VirtualBox                         |
+> **My goal:** Build strong fundamentals in Cloud & DevOps while continuing to grow in Cyber Security.
 
 ---
 
-## 📂 Featured Projects
-
-### ☁️ HostVault — Private Cloud Storage
-
-**Self-hosted Google Drive alternative**
-
-A full-stack private cloud storage platform built with **Flask, MinIO, PostgreSQL and Nginx**, designed to provide private file storage without depending on third-party cloud storage providers.
-
-* 📤 File upload/download with drag & drop
-* 🗑️ Trash system with 30-day recovery
-* 🛡️ Admin panel for users, files, storage & activity logs
-* 🔒 Brute-force protection and rate limiting
-* 🛡️ Input validation & session hardening
-* 🔐 Google OAuth authentication
-* 🌙 Dark / Light theme
-* ☁️ Self-hosted object storage using MinIO
-
-🔗 [View Repository](https://github.com/vijay-1806/hostvault)
-
----
-
-### ⛓️ Blockchain Security Project — In Progress
-
-Currently developing a **blockchain-based security system** focused on **data integrity, tamper detection and decentralized verification**.
-
-The project explores how blockchain and smart contracts can be used to create trustworthy and tamper-resistant security records.
-
-**Technologies:** Ethereum • Solidity • Smart Contracts • Ganache • Hardhat • Python
-
----
-
-### 🔐 SecureDrop — Encrypted File Transfer
-
-A security-focused file transfer system designed around **encrypted USB-based file sharing**.
-
-* 🔒 AES-256 file encryption
-* 💻 Device/laptop binding
-* 🔑 Secure file access
-* 🌐 Flask-based web interface
-* ☁️ Encrypted backup integration
-
----
-
-## ☁️ Cloud & DevOps Journey
-
-I'm currently expanding my Cyber Security knowledge toward **Cloud Security and DevOps**.
-
-### Currently working with:
-
-* 🐧 Linux
-* ☁️ AWS
-* 🔧 Git & GitHub
-* ⚙️ Jenkins
-* 🌐 Nginx
-* 🔄 CI/CD concepts
-* 🖥️ AWS EC2
-* 🪣 AWS S3
-* 🔐 AWS IAM
-* 📊 AWS CloudTrail
-
-My goal is to understand how applications are **built, deployed, secured, monitored and scaled** in real-world environments.
-
----
-
-## 🎯 Career Focus
-
-**Cyber Security → Cloud Security → DevSecOps**
-
-I'm interested in building a career where **security and infrastructure meet development**.
-
-Areas I'm actively exploring:
-
-* 🔐 Cyber Security
-* ☁️ Cloud Security
-* ⚙️ DevSecOps
-* 🐧 Linux & System Security
-* 🌐 Network Security
-* 🔄 CI/CD & Automation
-* ⛓️ Blockchain Security
-
----
-
-## 📊 GitHub Activity & Stats
+## 🛠️ Technologies I'm Learning
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijay-1806\&theme=react-dark\&hide_border=true)](https://github.com/vijay-1806)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,jenkins,githubactions,linux" />
+
+### Development & Databases
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,flask" />
 
 </div>
 
-<div align="center">
+### 📚 Current Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-1806\&layout=compact\&theme=dark\&hide_border=true)
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay-1806\&show_icons=true\&theme=dark\&hide_border=true)
-
-</div>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vijay-1806\&theme=darkhub\&no-frame=true\&row=1)](https://github.com/vijay-1806)
-
-</div>
+| Area              | Current Level            |
+| ----------------- | ------------------------ |
+| ☁️ AWS            | 🟢 Fundamentals          |
+| 🔄 Git & GitHub   | 🟢 Learning              |
+| ⚙️ Jenkins        | 🟡 Learning              |
+| 🚀 GitHub Actions | 🟡 Learning              |
+| 🔁 CI/CD          | 🟡 Learning              |
+| 🐧 Linux          | 🟡 Learning              |
+| 🔐 Cyber Security | 🟡 Building Fundamentals |
+| ⛓️ Blockchain     | 🟡 Project Experience    |
 
 ---
 
-## 📚 Currently Learning
+# 📂 My Projects
+
+## 1. ☁️ HostVault — Private Cloud Storage
+
+**Status:** ✅ Completed
+
+A self-hosted private cloud storage project built as a practical full-stack application.
+
+### What I worked with
+
+* Python
+* Flask
+* PostgreSQL
+* MinIO
+* Nginx
+* Authentication
+* File upload & download
+* Admin dashboard
+* Basic security features
+
+### Highlights
+
+* 📤 File upload and download
+* 🗑️ Trash and recovery system
+* 👤 User management
+* 🛡️ Basic login protection
+* ☁️ Self-hosted object storage
+* 🌙 Dark / Light mode
+
+🔗 **[View Repository](https://github.com/vijay-1806/hostvault)**
+
+---
+
+## 2. ⛓️ Blockchain Log Verifier
+
+**Status:** ✅ Completed
+
+A blockchain-based project developed to explore how blockchain can be used to verify the integrity of security-related logs.
+
+### What I learned
+
+* Blockchain fundamentals
+* Smart contracts
+* Ethereum concepts
+* Log integrity
+* Tamper detection
+* Working with blockchain development tools
+
+🔗 **[View Repository](https://github.com/SurendiranBJ/Block_chain-log-Verifier)**
+
+---
+
+## 3. 🧬 Biometrics Authentication & LMS
+
+**Status:** 🚧 Currently Working
+
+A Learning Management System project that explores **behavioral biometrics and continuous user telemetry**.
+
+The project combines an LMS interface with a behavioral-authentication component to study user activity such as typing and navigation patterns.
+
+### Current Technology
+
+* ⚛️ React
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🔑 JWT
+* 🔐 bcrypt
+* 📊 Recharts
+* 📝 Monaco Editor
+* 🎨 Tailwind CSS
+* 🌐 ngrok
+
+### Current Features
+
+* 🔐 Authentication and role-based access
+* 👨‍🏫 Teacher dashboard
+* 👨‍🎓 Student dashboard
+* 📝 Coding practice environment
+* 📚 Courses and assignments
+* 🧪 Timed quizzes
+* 📊 Activity and telemetry collection
+* 🧬 Behavioral biometrics integration
+
+🔗 **[View Repository](https://github.com/vijay-1806/Biometrics-Authentication)**
+
+The repository currently describes the project as a telemetry/LMS environment integrating an AI-based behavioral-biometrics platform and contains separate frontend, backend and behavioral-authentication components.
+
+---
+
+# ☁️ My Cloud & DevOps Journey
+
+I'm currently at the **beginning of my Cloud and DevOps journey**.
+
+### ☁️ AWS
+
+I've completed the **basic AWS learning courses** and am now building practical understanding of cloud services.
+
+Currently exploring:
+
+`AWS Fundamentals → EC2 → S3 → IAM → Cloud Basics`
+
+### ⚙️ DevOps
+
+I'm currently learning the fundamentals of:
+
+`Git → GitHub → CI/CD → Jenkins → GitHub Actions`
+
+My focus right now is not on claiming expertise, but on **understanding the fundamentals and getting hands-on experience**.
+
+---
+
+# 📈 My Learning Journey
 
 ```text
 Cyber Security
-      ↓
-Linux & Networking
-      ↓
-AWS Cloud
-      ↓
-DevOps & CI/CD
-      ↓
-Cloud Security
-      ↓
-DevSecOps
+      │
+      ├── Linux & Networking
+      │
+      ├── Security Projects
+      │
+      └── Blockchain Project
+              │
+              ▼
+        Cloud Fundamentals
+              │
+              ├── AWS
+              │
+              ▼
+          DevOps Basics
+              │
+              ├── Git
+              ├── GitHub
+              ├── Jenkins
+              ├── GitHub Actions
+              └── CI/CD
 ```
 
-I'm continuously improving my skills through **hands-on projects, CTFs, cloud labs, coding practice, and real-world experimentation**.
+> 🚀 Currently moving from **Cloud fundamentals → DevOps fundamentals → practical automation**
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-* 📧 **Email:** [vijayaragavan183@gmail.com](mailto:vijayaragavan183@gmail.com)
-* 💼 **LinkedIn:** [Vijayaragavan G](https://www.linkedin.com/in/vijayaragavan-g-75591b338)
-* 🌐 **Portfolio:** [vijay-1806.github.io](https://vijay-1806.github.io)
-* 🐙 **GitHub:** [vijay-1806](https://github.com/vijay-1806)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vijay-1806&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-1806&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vijay-1806&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vijay-1806/vijay-1806/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+**☁️ Cloud Computing**
+
+⬇️
+
+**⚙️ DevOps Fundamentals**
+
+⬇️
+
+**🔄 CI/CD & Automation**
+
+⬇️
+
+**🔐 Cloud Security**
+
+</div>
+
+I'm currently focusing most of my learning time on **Cloud and DevOps**, while continuing to strengthen my Cyber Security fundamentals.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:vijayaragavan183@gmail.com">
+<img src="https://img.shields.io/badge/Email-vijayaragavan183%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vijayaragavan-g-75591b338">
+<img src="https://img.shields.io/badge/LinkedIn-Vijayaragavan%20G-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/vijay-1806">
+<img src="https://img.shields.io/badge/GitHub-vijay--1806-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://vijay-1806.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### *"Build it. Break it. Secure it. Scale it."* 🚀
+### 💡 "Learn. Build. Break. Improve."
+
+⭐ Thanks for visiting my profile!
 
 </div>
